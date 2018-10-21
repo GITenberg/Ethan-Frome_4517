@@ -46,7 +46,7 @@ happens in such cases, each time it was a different story.
 If you know Starkfield, Massachusetts, you know the post-office. If you
 know the post-office you must have seen Ethan Frome drive up to it, drop
 the reins on his hollow-backed bay and drag himself across the brick
-pavement to the white colonnade: and you must have asked who he was.
+pavement to the white colonnade; and you must have asked who he was.
 
 It was there that, several years ago, I saw him for the first time; and
 the sight pulled me up sharp. Even then he was the most striking figure
@@ -76,7 +76,7 @@ grating. I noticed that, though he came so punctually, he seldom
 received anything but a copy of the Bettsbridge Eagle, which he put
 without a glance into his sagging pocket. At intervals, however, the
 post-master would hand him an envelope addressed to Mrs. Zenobia--or Mrs.
-Zeena-Frome, and usually bearing conspicuously in the upper left-hand
+Zeena--Frome, and usually bearing conspicuously in the upper left-hand
 corner the address of some manufacturer of patent medicine and the name
 of his specific. These documents my neighbour would also pocket without
 a glance, as if too much used to them to wonder at their number and
@@ -813,7 +813,7 @@ formless wrappings they seemed merged in one dim outline.
 
 "Gentleman friend gone back on you? Say, Matt, that's tough! No, I
 wouldn't be mean enough to tell the other girls. I ain't as low-down as
-that." (How Frome hated his cheap banter!) "But look a here, ain't it
+that." (How Frome hated his cheap banter!) "But look at here, ain't it
 lucky I got the old man's cutter down there waiting for us?"
 
 Frome heard the girl's voice, gaily incredulous: "What on earth's your
@@ -1584,7 +1584,7 @@ WHO DWELLED TOGETHER IN PEACE
 FOR FIFTY YEARS.
 
 He used to think that fifty years sounded like a long time to live
-together, but now it seemed to him that they might pass in a flash.
+together; but now it seemed to him that they might pass in a flash.
 Then, with a sudden dart of irony, he wondered if, when their turn came,
 the same epitaph would be written over him and Zeena.
 
@@ -1623,7 +1623,7 @@ tribute to the unusual transformed and glorified her. She seemed to
 Ethan taller, fuller, more womanly in shape and motion. She stood aside,
 smiling silently, while he entered, and then moved away from him with
 something soft and flowing in her gait. She set the lamp on the table,
-and he saw that it was carefully laid for supper, with fresh doughnuts,
+and he saw that it was carefully laid for supper, with fresh dough-nuts,
 stewed blueberries and his favourite pickles in a dish of gay red glass.
 A bright fire glowed in the stove and the cat lay stretched before it,
 watching the table with a drowsy eye.
@@ -2150,7 +2150,7 @@ grievance.
 When he re-entered the kitchen the lamp lit up the same scene of shining
 comfort as on the previous evening. The table had been as carefully
 laid, a clear fire glowed in the stove, the cat dozed in its warmth, and
-Mattie came forward carrying a plate of doughnuts.
+Mattie came forward carrying a plate of dough-nuts.
 
 She and Ethan looked at each other in silence; then she said, as she had
 said the night before: "I guess it's about time for supper."
@@ -2466,7 +2466,7 @@ Mattie's tender gaze was on him and she marked the gesture.
 
 "Why, Ethan, what's the matter? Don't it taste right?"
 
-"Yes--it's first--rate. Only I--" He pushed his plate away, rose from his
+"Yes--it's first-rate. Only I--" He pushed his plate away, rose from his
 chair, and walked around the table to her side. She started up with
 frightened eyes.
 
@@ -2614,7 +2614,7 @@ on her lashless lids and ran slowly down her cheeks. "It takes the
 stepladder to get at the top shelf, and I put Aunt Philura Maple's
 pickle-dish up there o' purpose when we was married, and it's never been
 down since, 'cept for the spring cleaning, and then I always lifted it
-with my own hands, so's 't shouldn't get broke." She laid the fragments
+with my own hands, so's 't it shouldn't get broke." She laid the fragments
 reverently on the table. "I want to know who done this," she quavered.
 
 At the challenge Ethan turned back into the room and faced her. "I can
@@ -2874,9 +2874,8 @@ faded leaf on 'em; but they pine away when they ain't cared for," she
 said reflectively. Then she turned to Jotham and asked: "What time'd you
 say Dan'l Byrne'd be along?"
 
-The hired man threw a hesitating glance at Ethan.
-
-"Round about noon," he said.
+The hired man threw a hesitating glance at Ethan. "Round about noon," he
+said.
 
 Zeena turned to Mattie. "That trunk of yours is too heavy for the
 sleigh, and Dan'l Byrne'll be round to take it over to the Flats," she
@@ -2886,7 +2885,7 @@ said.
 
 "I'd like to go over things with you first," Zeena continued in an
 unperturbed voice. "I know there's a huckabuck towel missing; and I
-can't take out what you done with that match-safe 't used to stand
+can't make out what you done with that match-safe 't used to stand
 behind the stuffed owl in the parlour."
 
 She went out, followed by Mattie, and when the men were alone Jotham
@@ -3015,7 +3014,7 @@ exactly how everything had looked: the red-and-white quilt on her narrow
 bed, the pretty pin-cushion on the chest of drawers, and over it the
 enlarged photograph of her mother, in an oxydized frame, with a bunch of
 dyed grasses at the back. Now these and all other tokens of her presence
-had vanished and the room looked as bare and comfortless as when Zeena
+had vanished, and the room looked as bare and comfortless as when Zeena
 had shown her into it on the day of her arrival. In the middle of the
 floor stood her trunk, and on the trunk she sat in her Sunday dress,
 her back turned to the door and her face in her hands. She had not heard
@@ -3046,7 +3045,7 @@ Byrne says you better hurry up if you want him to take that trunk."
 
 They drew apart with stricken faces. Words of resistance rushed to
 Ethan's lips and died there. Mattie found her handkerchief and dried her
-eyes; then,--bending down, she took hold of a handle of the trunk.
+eyes; then, bending down, she took hold of a handle of the trunk.
 
 Ethan put her aside. "You let go, Matt," he ordered her.
 
@@ -3195,7 +3194,7 @@ and the bluish cones caught in its surface stood out like ornaments of
 bronze.
 
 Ethan drove on in silence till they reached a part of the wood where the
-pines were more widely spaced, then he drew up and helped Mattie to get
+pines were more widely spaced; then he drew up and helped Mattie to get
 out of the sleigh. They passed between the aromatic trunks, the snow
 breaking crisply under their feet, till they came to a small sheet
 of water with steep wooded sides. Across its frozen surface, from the
@@ -3310,7 +3309,7 @@ letter in shreds and sent them fluttering off into the snow.
 
 She was silent for a moment; then she said, in such a low tone that he
 had to stoop his head to hear her: "I used to think of it sometimes,
-summer nights, when the moon was so bright I couldn't sleep."
+summer nights when the moon was so bright. I couldn't sleep."
 
 His heart reeled with the sweetness of it. "As long ago as that?"
 
@@ -3454,7 +3453,7 @@ laugh.
 The strange exaltation of his mood had brought on one of his rare fits
 of boastfulness. "It is a tricky place, though. The least swerve,
 and we'd never ha' come up again. But I can measure distances to a
-hair's-breadth-always could."
+hair's-breadth--always could."
 
 She murmured: "I always say you've got the surest eye..."
 
